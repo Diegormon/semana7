@@ -1,5 +1,5 @@
 # *Proyecto1*
-*Este repositorio es un ejemplo de proyecto en equipo*
+*Este repositorio es un ejemplo de proyecto en equipo 2 para avanzar algo supongo *
 
 ## *Cómo contribuir*
 
@@ -67,3 +67,4 @@
 
 7.  ***Espera la revisión***  
    - *En Github: Uno de los mantenedores del proyecto revisará tu pull request y te enviará una respuesta.*
+     
